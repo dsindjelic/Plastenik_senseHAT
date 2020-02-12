@@ -1,0 +1,1 @@
+[{"id":"9ae61069.59aca","type":"e-mail","z":"7cad61ee.ed6ec","server":"smtp.gmail.com","port":"465","secure":true,"tls":true,"name":"d2sindjelic@gmail.com","dname":"Fire Alarm","x":290,"y":100,"wires":[]}]
